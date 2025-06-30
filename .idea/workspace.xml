@@ -23,8 +23,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="727e5365-267c-4dc1-b701-6a8fa80463d6" name="Changes" comment="">
+    <list default="true" id="47d658b7-247d-41ad-a2d3-8c9647c8bb88" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Session5/.idea/Session5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session5/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session6/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session7/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Session3/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Session3/CMakeLists.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/.idea/editor.xml" beforeDir="false" />
@@ -119,13 +128,16 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2zBZhh5m4Hg1ZnWCquRuUR67EbW" />
+  <component name="ProjectId" id="2zEAaQ6XNvNWck6sOomWm9iRr7I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.main.c (1).executor": "Run",
+    "C/C++ File.main.c (2).executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -133,10 +145,9 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Rebasing 18/6",
+    "git-widget-placeholder": "Rebasing 29/6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -145,7 +156,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C/C++ File.main.c (2)">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -156,19 +167,66 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ccdlVaGiaiThuat" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="Session7\PTIT_CNTT5_IT201_Session2\main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ccdlVaGiaiThuat" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="Session7\PTIT_CNTT5_IT201_Session3\main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ccdlVaGiaiThuat" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="Session7\PTIT_CNTT5_IT201_Session1\main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.main.c" />
+      <item itemvalue="C/C++ File.main.c (1)" />
+      <item itemvalue="C/C++ File.main.c (2)" />
+      <item itemvalue="CMake Application.ccdlVaGiaiThuat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.main.c (2)" />
+        <item itemvalue="C/C++ File.main.c (1)" />
+        <item itemvalue="C/C++ File.main.c" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="727e5365-267c-4dc1-b701-6a8fa80463d6" name="Changes" comment="" />
-      <created>1751206547795</created>
+      <changelist id="47d658b7-247d-41ad-a2d3-8c9647c8bb88" name="Changes" comment="" />
+      <created>1751285921326</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1751206547795</updated>
-      <workItem from="1751206549216" duration="305000" />
+      <updated>1751285921326</updated>
+      <workItem from="1751285922515" duration="5674000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session1/main.c</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Session7/PTIT_CNTT5_IT201_Session1/main.c</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
