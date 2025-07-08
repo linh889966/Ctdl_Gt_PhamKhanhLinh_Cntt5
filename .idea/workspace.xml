@@ -23,7 +23,81 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f75e458-687d-4dfd-92b8-b8dcdaccd111" name="Changes" comment="" />
+    <list default="true" id="3f75e458-687d-4dfd-92b8-b8dcdaccd111" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Session5/.idea/Session5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai01/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/.idea/PTIT_CNTT5_IT201_Session03_Bai02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai02/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai03/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai03/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai03/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/.idea/PTIT_CNTT5_IT201_Session03_Bai04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai04/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/.idea/PTIT_CNTT5_IT201_Session03_Bai05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai05/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/.idea/PTIT_CNTT5_IT201_Session03_Bai06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai06/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/PTIT_CNTT5_IT201_Session03_Bai07/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/calloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/malloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/untitled/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session1/dequy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session4/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session5/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session6/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session7/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/PTIT_CNTT5_IT201_Session8/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/main.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,12 +129,17 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "Rebasing 29/6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/LOQ/Desktop/ccdlVaGiaiThuat/main.cpp",
     "vue.rearranger.settings.migration": "true"
@@ -85,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751988855947</updated>
-      <workItem from="1751988857215" duration="1000" />
+      <workItem from="1751988857215" duration="344000" />
     </task>
     <servers />
   </component>
